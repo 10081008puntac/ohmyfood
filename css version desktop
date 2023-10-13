@@ -1,10 +1,14 @@
-head {
-  
+body {
+  width: Hug (1,440px)
+height: Hug (1,215px)
+top: 490px
+gap: 40px
+}
 
 
 banner {
-  color: white;
-  police: bold;
+  background: rgba(255, 255, 255, 1);
+  text-size: bold;
   text-align: center;
 }
 
