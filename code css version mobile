@@ -1,0 +1,7 @@
+.btn {
+  color: purple;
+  text-align: center;
+}
+.btn & hover {
+
+}
