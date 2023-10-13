@@ -5,3 +5,26 @@
 .btn & hover {
 
 }
+ head {
+  background-color: white;
+  text-align: center;
+  text-size: bold;
+}
+
+footer {
+background-color: black;
+width: Fixed (1,440px)
+height: Fixed (114px)
+padding: 30px, 25px, 30px, 25px
+gap: 16px
+}
+
+section Restaurants {
+
+
+
+photo {
+width: 375px
+height: 275px
+top: 63px
+}
