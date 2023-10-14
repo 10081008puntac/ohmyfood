@@ -3,7 +3,19 @@ header {
      btn: return;
     }
 
+titles {
+  font-family: Shrikhand;
+}
 
+Texte {
+  font-family: Roboto;
+}
+
+
+
+logo {
+font-size: : Shrikhand;
+}
 loader {
 animation-delay: 1-3 s;
 transform-scale: (1);
@@ -22,12 +34,11 @@ position: right;
 color: white
 }
 
-heart & hover{
+heart & hover {
 transform-scale: (0)
 transition-delay: 1s;
 color: purple;
 }
-
 
 
 body {
@@ -84,28 +95,22 @@ transform-scale: (1)
 .Plats {
 transition-delay: 4s;
 transform-scale: (1)
-
 }
 
 .Desserts {
 transition-delay:4s;
 transform-scale: (1)
-
-
 }
 
 .Plats {
-
-
-
+transition-delay: 4s;
+transform-scale: (1)
 }
 
 .Desserts {
-
-
-
+transition-delay: 4s;
+transform-scale: (1)
 }
-
 
 tick & hover{
   position: right;
