@@ -59,3 +59,23 @@ width: 375px
 height: 275px
 top: 63px
 }
+
+.Entrées {
+transition-delay: 4s;
+transform-scale: (1)
+}
+
+.Plats {
+transition-delay: 4s;
+transform-scale: (1)
+
+}
+
+.Desserts {
+transition-delay:4s;
+transform-scale: (1)
+
+
+}
+
+
