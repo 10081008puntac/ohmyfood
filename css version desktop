@@ -4,12 +4,11 @@ header {
     }
 
 loader {
-animation delay: 1-3 s;
-transform scale: (1);
-
-
-
-
+animation-delay: 1-3 s;
+transform-scale: (1);
+background-color: purple;
+transition-delay: 4s;
+}
 
 
 body {
