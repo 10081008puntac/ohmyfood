@@ -56,6 +56,13 @@ padding: 30px, 25px, 30px, 25px
 gap: 16px
 }
 
+
+.contact & click {
+   link="j83.steiger@gmail.com"
+}
+
+
+
 section Restaurants {
 
 
