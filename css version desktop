@@ -1,7 +1,13 @@
 header {
      logo: center;
-     btn: return;
-    }
+     
+}
+
+.btn & hover{ return
+"homepage"
+}
+
+
 
 titles {
   font-family: Shrikhand;
