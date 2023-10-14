@@ -11,8 +11,6 @@ Texte {
   font-family: Roboto;
 }
 
-
-
 logo {
 font-size: : Shrikhand;
 }
@@ -112,9 +110,10 @@ transition-delay: 4s;
 transform-scale: (1)
 }
 
-tick & hover{
+tick & hover {
   position: right;
   amination-delay: right to the left;
   transform-scale: (1)
 transition-delay: 3s;
+color: #99E2D0
 }
