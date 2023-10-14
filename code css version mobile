@@ -1,4 +1,6 @@
 header {
+     logo: center;
+     btn: return;
     }
 
 
