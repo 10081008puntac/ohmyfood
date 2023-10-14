@@ -1,6 +1,6 @@
 header {
      logo: center;
-     btn: return;
+     btn: return "homepage";
     }
 
 titles {
