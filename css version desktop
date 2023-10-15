@@ -13,7 +13,7 @@ titles {
   font-family: Shrikhand;
 }
 
-Texte {
+p {
   font-family: Roboto;
 }
 
