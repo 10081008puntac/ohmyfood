@@ -38,7 +38,7 @@ position: right;
 color: white
 }
 
-heart & hover {
+heart & click {
 transform-scale: (0)
 transition-delay: 1s;
 color: purple;
