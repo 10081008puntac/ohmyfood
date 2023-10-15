@@ -6,7 +6,7 @@ header {
 "homepage"
 }
 
-titles {
+p {
   font-family: Shrikhand;
 }
 
