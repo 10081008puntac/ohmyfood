@@ -1,8 +1,13 @@
 header {
-     logo: center;
-    }
+     logo: center bold;
+     width: 200px
+    height: 34.2px
+    top: 30px
+    left: 619px
+    
+ }
 
-.btn & hover{ return
+.btn & hover return {
 "homepage"
 }
 
@@ -10,7 +15,7 @@ p {
   font-family: Shrikhand;
 }
 
-Texte {
+p {
   font-family: Roboto;
 }
 
@@ -20,6 +25,9 @@ animation-delay: 1-3 s;
 transform-scale: (1);
 background-color: purple;
 transition-delay: 4s;
+width: 59px
+height: 69px
+border-radius: 0px, 15px, 15px, 0px
 }
 
 
