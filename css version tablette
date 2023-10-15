@@ -1,5 +1,10 @@
 header {
      logo: center;
+     logo: center bold;
+     width: 200px
+    height: 34.2px
+    top: 30px
+    left: 619px
     }
 
 .btn & hover{ return
