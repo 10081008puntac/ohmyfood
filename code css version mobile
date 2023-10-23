@@ -1,17 +1,25 @@
 header {
-     logo: center bold;
-     width: 200px
-    height: 34.2px
-    top: 30px
-    left: 619px
-    
- }
+     position: auto;
+     width: 200px;
+    height: 34.2px;
+    top: 30px;
+    left: 619px;
+    family-size: bold;
+    text-align: center;
+    background-color: white;
+     }
 
-.btn & hover return {
-"homepage"
+footer {
+background-color: black;
+text-align: center;
 }
 
-p {
+
+.btn & hover  {
+homepage;
+}
+
+titles {
   font-family: Shrikhand;
 }
 
@@ -21,13 +29,13 @@ p {
 
 
 loader {
-animation-delay: 1-3 s;
-transform-scale: (1);
+delay: 1-3 s;
+scale: (1);
 background-color: purple;
-transition-delay: 4s;
-width: 59px
-height: 69px
-border-radius: 0px, 15px, 15px, 0px
+delay: 4s;
+width: 59px;
+height: 69px;
+border-radius: 0px, 15px, 15px, 0px;
 }
 
 
@@ -39,72 +47,58 @@ border-radius: 0px, 15px, 15px, 0px
 
 .btn & hover {
 transition-property: lighten;
-transition-shadow: rgb(0, 0,5 0,8)
+shadow: black;
 }
 
 heart {
 position: right;
-color: white
+color: white;
 }
 
 heart & click {
-transform-scale: (0)
-transition-delay: 1s;
-color: purple;
-}
-
- head {
-  background-color: white;
-  text-align: center;
-  text-size: bold;
-}
-
-footer {
-background-color: black;
-width: Fixed (1,440px)
-height: Fixed (114px)
-padding: 30px, 25px, 30px, 25px
-gap: 16px
+scale: (0);
+delay: 1s;
+color: white to purple;
 }
 
 
-.contact & click {
+"contact" & click {
    link="j83.steiger@gmail.com"
 }
 
 
 
-section Restaurants {
+"Restaurants" section {
 
-
+}
 
 photo {
-width: 375px
-height: 275px
-top: 63px
+width: 375px;
+height: 275px;
+top: 63px;
 }
 
 .Entrées {
-transition-delay: 4s;
-transform-scale: (1)
+delay: 4s;
+scale: (1);
 }
 
 .Plats {
-transition-delay: 4s;
-transform-scale: (1)
+delay: 4s;
+scale: (1);
 }
 
 .Desserts {
-transition-delay:4s;
-transform-scale: (1)
+delay:4s;
+scale: (1)
 }
 
 
 tick & click {
   position: right;
-  amination-delay: right to the left;
-  transform-scale: (1)
-transition-delay: 3s;
+ delay: right to the left;
+  scale: (1);
+  delay: 3s;
  color: #99E2D0;
 }
 
